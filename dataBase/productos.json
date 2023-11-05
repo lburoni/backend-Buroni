@@ -9,8 +9,7 @@
     "id": 1
   },
   {
-    "timestamp": "Mon Jun 06 2022",
-    "nombre": "Producto update",
+    "nombre": "Producto2",
     "descripcion": "descripcion2",
     "codigo": 2,
     "thumbnail": "url2",
@@ -73,7 +72,6 @@
     "id": 8
   },
   {
-    "timestamp": "Sun Jun 05 2022",
     "nombre": "Producto9",
     "descripcion": "descripcion9",
     "codigo": 9,
